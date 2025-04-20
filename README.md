@@ -1,6 +1,6 @@
 # Le Duc Loc (PeterLe611)
 
-**Software Engineering Sophomore | MERN, Java, Python Enthusiast**
+**Software Engineering Sophomore**
 
 📍 Ho Chi Minh City, Viet Nam  
 ✉️ duclocle.work@gmail.com  
