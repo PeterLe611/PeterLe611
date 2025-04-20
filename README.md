@@ -84,7 +84,6 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
 - Coordinated a multidisciplinary team to research and propose cost-effective sanitation solutions for Pu Ngaol village (Mondulkiri, Cambodia).  
 - Managed workflow tracking, progress monitoring, and peer feedback; delivered a high-quality collaborative presentation.  
 **Role:** Team Coordinator | **Outcome:** 2nd place domestic & global  
-**Repo:** _Coming Soon_
 
 ### 5. Nom Nom Cooking App (SAGE Business Competition)
 **Jan 2021 – Jan 2022**  
