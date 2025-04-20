@@ -4,23 +4,48 @@
 
 📍 Ho Chi Minh City, Viet Nam  
 ✉️ duclocle.work@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/duclocle) | [Portfolio](https://duclocle.work) | [GitHub](https://github.com/PeterLe611)
+🔗 [LinkedIn](https://linkedin.com/in/duclocle) | [GitHub](https://github.com/PeterLe611)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m Le Duc Loc, a second-year Software Engineering student at RMIT University. I enjoy building full-stack applications and exploring AI algorithms. My projects span web development, algorithm design, and collaborative engineering solutions.
+I’m Le Duc Loc, a second-year Software Engineering student at RMIT University. I enjoy building all sorts of applications and am currently looking for experience in Software Engineering. My projects span web development, algorithm design, and collaborative engineering solutions.
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Tech Stack
 
-- **Languages:** Java, JavaScript (TypeScript), Python, C++  
-- **Frontend:** React (TypeScript), Tailwind CSS, HTML, CSS  
+- **Languages:** Java, JavaScript (TypeScript), Python, C++, C  
+- **Frontend:** React (TypeScript & Javascript), Tailwind CSS, HTML, CSS  
 - **Backend:** Node.js, Express.js, RESTful APIs, JWT authentication  
-- **Databases:** MongoDB, PostgreSQL  
+- **Databases:** MongoDB, PostgreSQL, MongoDB  
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman
+
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterLe611&layout=compact&theme=tokyonight" alt="GitHub_TopLang>
+</p>
 
 ---
 
@@ -59,7 +84,7 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
 ### 5. Nom Nom Cooking App (SAGE Business Competition)
 **Jan 2021 – Jan 2022**  
 - Led market research to design an app teaching Gen Z cooking skills and reducing fast-food waste.  
-- Analyzed competitor features, budgeted development costs, and defined MVP requirements; project ranked 2nd place.  
+- Analyzed competitor features, budgeted development costs, and defined MVP requirements; the project ranked 2nd place.  
 **Role:** Research Manager  
 **Repo:** _Coming Soon_
 
@@ -69,7 +94,6 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
 
 - 📧 Email: duclocle.work@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/duclocle](https://linkedin.com/in/duclocle)  
-- 🌐 Portfolio: [duclocle.work](https://duclocle.work)  
 
 _Looking forward to collaborating on innovative tech projects!_
 
