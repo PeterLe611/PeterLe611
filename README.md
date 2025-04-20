@@ -22,7 +22,7 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
 - **Databases:** MongoDB, PostgreSQL, MongoDB  
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -43,9 +43,14 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
 </p>
 
+---
+
+## 📊 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterLe611&layout=compact&theme=tokyonight" alt="GitHub_TopLang>
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterLe611&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterLe611&layout=compact&theme=tokyonight" alt="GitHub Top Languages" width="48%"/>
 </p>
+
 
 ---
 
