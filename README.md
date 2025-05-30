@@ -78,20 +78,7 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
 - Designed a custom heuristic function to balance accuracy and performance; wrote clean, modular code with unit tests.  
 **Technologies:** Python, A* Algorithm, NumPy  
 **Repo:** [Astar-Algorithm-Mini-Project](https://github.com/PeterLe611/Astar-Algorithm-Mini-Project)
-
-### 4. Development of Affordable Toilet (EWB Challenge)
-**Jan 2023 – Jan 2024**  
-- Coordinated a multidisciplinary team to research and propose cost-effective sanitation solutions for Pu Ngaol village (Mondulkiri, Cambodia).  
-- Managed workflow tracking, progress monitoring, and peer feedback; delivered a high-quality collaborative presentation.  
-**Role:** Team Coordinator | **Outcome:** 2nd place domestic & global  
-
-### 5. Nom Nom Cooking App (SAGE Business Competition)
-**Jan 2021 – Jan 2022**  
-- Led market research to design an app teaching Gen Z cooking skills and reducing fast-food waste.  
-- Analyzed competitor features, budgeted development costs, and defined MVP requirements; the project ranked 2nd place.  
-**Role:** Research Manager  
-**Repo:** _Coming Soon_
-
+  
 ---
 
 ## 📞 Contact & Connect
