@@ -60,23 +60,29 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
 **Mar 2025 – May 2025**  
 - Built a responsive MERN-stack web app for creating, managing, and joining events with role-based access (Admin, Organizer, Attendee).  
 - Implemented secure JWT-based authentication, RESTful APIs with Express.js, and MongoDB data models; integrated file uploads for event assets.  
-- Developed a dynamic React (TypeScript) frontend with Tailwind CSS, including RSVP tracking, discussion boards, and admin dashboards with real-time engagement stats.  
+- Developed a dynamic React (TypeScript) frontend with Tailwind CSS, including RSVP tracking, discussion boards, and admin dashboards with real-time engagement stats.
+ 
 **Technologies:** React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT  
+
 **Repo:** [trustmebro-event-planner](https://github.com/lucietran03/trustmebro-event-planner)
 
 ### 2. Rental Management Application
 **Jan 2024 – Jan 2025**  
 - Created a Java-based rental app supporting CRUD operations for tenants, hosts, owners, and managers using MVC architecture.  
 - Designed UML ERDs and class diagrams; connected to a relational database for persistent storage.  
-- Learned core backend design patterns and user-role management.  
+- Learned core backend design patterns and user-role management.
+
 **Technologies:** Java, JDBC, MVC, UML, MySQL/PostgreSQL  
+
 **Repo:** [rental-property-app](https://github.com/PeterLe611/rental-property-app)
 
 ### 3. AI Pathfinding Project
 **Mar 2024 – Apr 2024**  
 - Developed a Python program implementing the A* (A-Star) algorithm for optimal pathfinding on 2D grid maps with obstacles and varied terrain costs.  
-- Designed a custom heuristic function to balance accuracy and performance; wrote clean, modular code with unit tests.  
+- Designed a custom heuristic function to balance accuracy and performance; wrote clean, modular code with unit tests.
+
 **Technologies:** Python, A* Algorithm, NumPy  
+
 **Repo:** [Astar-Algorithm-Mini-Project](https://github.com/PeterLe611/Astar-Algorithm-Mini-Project)
 
 ### 4. Nintendo Games Recommendation
@@ -84,7 +90,9 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
 - Developed a recommendation system for Nintendo games that suggests titles based on user platform and genre preferences.
 - Performed ETL and EDA on the Nintendo dataset using pandas, uncovering patterns in platform popularity, genre trends, and ratings distribution.
 - Visualized insights and model performance using matplotlib and seaborn for data-driven validation of recommendations.
+
 **Technologies:** Python, pandas, matplotlib, seaborn
+
 **Repo:** [Nintendo-Games-Recommendation](https://github.com/PeterLe611/nintendo-games-recommendation-app.git)
   
 ---
