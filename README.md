@@ -78,6 +78,14 @@ I’m Le Duc Loc, a second-year Software Engineering student at RMIT University.
 - Designed a custom heuristic function to balance accuracy and performance; wrote clean, modular code with unit tests.  
 **Technologies:** Python, A* Algorithm, NumPy  
 **Repo:** [Astar-Algorithm-Mini-Project](https://github.com/PeterLe611/Astar-Algorithm-Mini-Project)
+
+### 4. Nintendo Games Recommendation
+**Jul 2025 – Currently still developing**  
+- Developed a recommendation system for Nintendo games that suggests titles based on user platform and genre preferences.
+- Performed ETL and EDA on the Nintendo dataset using pandas, uncovering patterns in platform popularity, genre trends, and ratings distribution.
+- Visualized insights and model performance using matplotlib and seaborn for data-driven validation of recommendations.
+**Technologies:** Python, pandas, matplotlib, seaborn
+**Repo:** [Nintendo-Games-Recommendation](https://github.com/PeterLe611/nintendo-games-recommendation-app.git)
   
 ---
 
